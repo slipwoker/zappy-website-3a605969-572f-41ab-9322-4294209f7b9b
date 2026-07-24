@@ -1,0 +1,86 @@
+# TAMAR — Generative Engine Optimization Map
+
+> Tamar is a nail salon brand with an elegant and soft aesthetic, featuring a cream, beige, and white color palette that conveys sophistication and femininity. The website will showcase nail services with pricing and include an e-commerce shopping cart, suggesting a blend of in-person services and online purchasing options.
+
+---
+
+## Pages
+
+### בית
+https://tamar-3a605969.zappy5.app
+התפנקי בחוויית יופי וטיפוח ציפורניים אלגנטית ומרגיעה בסלון TAMAR. גלי את הסיפור התנ״כי של תמר שמתחבר לאסתטיקה נשית ומתוחכמת. כנסי עכשיו לעולם של סטייל ופינוק!
+
+### שירותים
+https://tamar-3a605969.zappy5.app/services
+מחפשת שירותי מניקור ופדיקור מושלמים? ב-TAMAR תמצאי מגוון טיפולים יוקרתיים במחירים משתלמים. לחצי כאן לגלות את חבילות הפינוק שמחכות לך ולהוסיף יופי תנ״כי לחייך!
+
+### גלריה
+https://tamar-3a605969.zappy5.app/gallery
+צללי לתוך גלריית TAMAR וקבלי השראה לעיצובי ציפורניים מהממים בגווני קרם, בז׳ ולבן. כל תמונה מספרת סיפור של תחכום ונשיות. בואי לבחור את המראה הבא שלך עוד היום!
+
+### אודות
+https://tamar-3a605969.zappy5.app/about
+מאחורי TAMAR עומד סיפור תנ״כי מעורר השראה של תמר, המשולב באהבה לטיפוח ציפורניים ואסתטיקה רכה. גלי מי אנחנו, מה מניע אותנו, ולמה כל לקוחה היא חלק מהמורשת שלנו. הצטרפי למסע!
+
+### צור קשר
+https://tamar-3a605969.zappy5.app/contact
+מוכנה לצעד הראשון לקראת ציפורניים חלומיות? צרי קשר עם צוות TAMAR עוד היום, קבעי תור או שאלי כל שאלה. אנחנו כאן בשבילך עם חיוך ויופי תנ״כי שמחכה רק לך!
+
+### Products
+https://tamar-3a605969.zappy5.app/products
+המוצרים שלנו - TAMAR
+
+### Product Detail
+https://tamar-3a605969.zappy5.app/product/:slug
+פרטי המוצר - TAMAR
+
+### Category
+https://tamar-3a605969.zappy5.app/category/:slug
+מוצרים - TAMAR
+
+### תודה שפנית אלינו | TAMAR
+https://tamar-3a605969.zappy5.app/thank-you
+TAMAR - תודה שפנית אלינו | TAMAR
+
+## Legal & Policy
+
+### Privacy Policy
+https://tamar-3a605969.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://tamar-3a605969.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://tamar-3a605969.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About TAMAR
+Tamar is a nail salon brand with an elegant and soft aesthetic, featuring a cream, beige, and white color palette that conveys sophistication and femininity. The website will showcase nail services with pricing and include an e-commerce shopping cart, suggesting a blend of in-person services and online purchasing options.
+
+## Target Audience
+- חברות ואנשים
+
+## Industry
+Beauty & Nail Care
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://tamar-3a605969.zappy5.app/sitemap.xml
+- Robots: https://tamar-3a605969.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://tamar-3a605969.zappy5.app/llms-full.txt
+- Products (JSON): https://tamar-3a605969.zappy5.app/products.json
+- Products (Google Merchant RSS): https://tamar-3a605969.zappy5.app/product-feed.xml
